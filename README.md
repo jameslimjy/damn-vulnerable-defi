@@ -2,14 +2,6 @@
 
 **A set of challenges to learn offensive security of smart contracts in Ethereum.**
 
-Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
+I'll be logging down my solutions for each challenge as I complete them [here](https://local-profit-87b.notion.site/DAMN-VULNERABLE-DEFI-ce941e0c9d9d4d1985b9f86147360125).
 
-## Play
-
-Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
-
-## Disclaimer
-
-All Solidity code, practices and patterns in this repository are DAMN VULNERABLE and for educational purposes only.
-
-DO NOT USE IN PRODUCTION.
+p.s. using the v3-dev branch! 
