@@ -10,7 +10,7 @@ p.s. using the v3-dev branch!
 1.	Unstoppable (3 Dec 2022) ✅
 2. Naive receiver (4 Dec 2022) ✅
 3.	Truster (4 Dec 2022) ✅
-4.	Side entrance
+4.	Side entrance (5 Dec 2022) ✅
 5.	The rewarder
 6.	Selfie
 7.	Compromised
