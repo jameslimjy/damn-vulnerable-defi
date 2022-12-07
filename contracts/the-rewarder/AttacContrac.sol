@@ -48,9 +48,6 @@ contract AttacContrac {
         // deposit DVT tokens
         theRewarderPool.deposit(amount);
 
-        // distributeRewards, mint reward tokens
-        theRewarderPool.distributeRewards();
-
         // withdraw DVT tokens
         theRewarderPool.withdraw(amount);
 
