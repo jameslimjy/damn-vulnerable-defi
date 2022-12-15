@@ -42,9 +42,6 @@ describe("[Challenge] Selfie", function () {
 
         // executeAction
         await this.attackerContract.executeAction();
-
-        // transfer tokens to attacker
-        await this.attackerContract.transferTokensToAttacker();
     });
 
     after(async function () {
