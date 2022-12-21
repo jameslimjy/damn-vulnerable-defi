@@ -13,7 +13,7 @@ p.s. using the v3-dev branch!
 4.	Side entrance (5 Dec 2022) ✅
 5.	The rewarder (7 Dec 2022) ✅
 6.	Selfie (15 Dec 2022) ✅
-7.	Compromised
+7.	Compromised (21 Dec 2022) ✅
 8.	Puppet
 9.	Puppet v2
 10.	Free rider
