@@ -7,13 +7,13 @@ I'll be logging down my solutions for each challenge as I complete them [here](h
 p.s. using the v3-dev branch! 
 
 ## Challenges List ##
-1.	Unstoppable (3 Dec 2022) ✅
-2. Naive receiver (4 Dec 2022) ✅
-3.	Truster (4 Dec 2022) ✅
-4.	Side entrance (5 Dec 2022) ✅
-5.	The rewarder (7 Dec 2022) ✅
-6.	Selfie (15 Dec 2022) ✅
-7.	Compromised (21 Dec 2022) ✅
+1.	Unstoppable ✅
+2. Naive receiver ✅
+3.	Truster ✅
+4.	Side entrance ✅
+5.	The rewarder ✅
+6.	Selfie ✅
+7.	Compromised ✅
 8.	Puppet
 9.	Puppet v2
 10.	Free rider
